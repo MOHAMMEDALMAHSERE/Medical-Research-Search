@@ -17,7 +17,6 @@ Open terminal **inside this extracted folder**:
 py -m venv .venv
 .venv\Scripts\activate
 python -m pip install -r requirements.txt
-python download_dataset.py --count 500
 python main.py
 ```
 
