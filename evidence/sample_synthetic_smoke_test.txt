@@ -1,0 +1,14 @@
+*** SYNTHETIC FIXTURE ONLY — NOT REAL TREC-COVID CORPUS ***
+Boolean results:
+covid AND vaccine: ['D1']
+covid OR vaccine: ['D1', 'D2', 'D4']
+covid AND NOT vaccine: ['D2']
+Ranked results:
+covid vaccine immune response
+  D1 : COVID Vaccine / 0.9707
+  D4 : Vaccine Research / 0.5672
+  D2 : COVID Transmission / 0.1532
+respiratory infection treatment
+  D3 : Cancer Treatment / 0.6667
+coronavirus transmission prevention
+  D2 : COVID Transmission / 0.8975

@@ -1,0 +1,12 @@
+test_and (test_search.SearchTests.test_and) ... ok
+test_empty (test_search.SearchTests.test_empty) ... ok
+test_not (test_search.SearchTests.test_not) ... ok
+test_or (test_search.SearchTests.test_or) ... ok
+test_precedence (test_search.SearchTests.test_precedence) ... ok
+test_preprocessing (test_search.SearchTests.test_preprocessing) ... ok
+test_ranked (test_search.SearchTests.test_ranked) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.005s
+
+OK
